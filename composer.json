@@ -1,0 +1,20 @@
+{
+    "name": "amc-channel/perpetual-grace-ltd-season-1-episode-1",
+    "description": " Watch Perpetual Grace LTD Season 1 Episode 1 online for Free Putlocker S01E01 WATCH FULL EPISODES HERE (CLICK LINK BELOW FO WATCHING))",
+	"keywords": ["Perpetual Grace LTD Season 1 Episode 1 Online Watch"],
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "WATCH HERE : https://t.co/ILCuPvPX0B",
+            "homepage": "https://t.co/ILCuPvPX0B",
+            "role": "Developer"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "movies123\\": "src/"
+        }
+    },
+    "minimum-stability": "dev"
+}
